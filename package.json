@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "ajv": "^6.5.4",
+    "url-parse": "^1.4.3"
   }
 }

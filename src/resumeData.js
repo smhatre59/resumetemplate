@@ -1,26 +1,11 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "Saurabh Mhatre",
+  "name": "John Doe",
   "role": "Frontend Developer",
-  "emailid": "Your emailid",
+  "linkedinId":"Your LinkedIn Id",
   "skypeid": "Your skypeid",
   "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
   "socialLinks":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/",
@@ -37,12 +22,12 @@ let resumeData = {
         "className":"fa fa-skype"
       }
     ],
-  "aboutme":"A little info about me",
-  "address":"Somewhere in this world",
-  "website":"http://technoetics.in",
+  "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
+  "address":"India",
+  "website":"https://www.codeclassifiers.com",
   "education":[
     {
-      "UniversityName":"Some University",
+      "UniversityName":"Mumbai University",
       "specialization":"Some specialization",
       "MonthOfPassing":"Jan",
       "YearOfPassing":"2018",
